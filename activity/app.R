@@ -48,7 +48,7 @@ server <- function(input, output) {
   source("sidebarOptions.R", local = TRUE)
   
   # STEP FIVE (B): Filter the data using the sidebar tools
-  #### ---> GO COMPLETE sidebarOptions.R
+  #### ---> GO COMPLETE filterData.R
   source("filterData.R", local = TRUE)
   
   # STEP FIVE (C): What does the explore tab do?
